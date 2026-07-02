@@ -1,16 +1,25 @@
-# React + Vite
+# Farming Advisor
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Farming Advisor is a modern web application designed to help farmers optimize their agricultural practices, manage crops efficiently, and get tailored recommendations. Built with a fast development setup and responsive styling, it provides a seamless user experience across devices.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Frontend Framework/Build Tool:** [Vite](https://vitejs.dev/) - For lightning-fast development and optimized production builds.
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid and modern UI development.
+*   **CSS Post-processing:** [PostCSS](https://postcss.org/) - Handles CSS optimization and auto-prefixing.
+*   **Code Quality:** [Oxlint](https://oxc-project.github.io/) - A high-performance JavaScript/TypeScript linter used to maintain clean code.
 
-## React Compiler
+## 🛠️ Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Follow these steps to set up the project locally on your machine.
 
-## Expanding the Oxlint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Make sure you have [Node.js](https://nodejs.org/) installed (which includes `npm`).
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/krishnasairemilla201-dot/farmingadvisor.git](https://github.com/krishnasairemilla201-dot/farmingadvisor.git)
+   cd farmingadvisor
